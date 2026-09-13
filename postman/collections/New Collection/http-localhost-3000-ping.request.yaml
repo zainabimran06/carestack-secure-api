@@ -1,0 +1,6 @@
+$kind: http-request
+name: http://localhost:3000/ping
+description: ""
+url: http://localhost:3000/ping
+method: GET
+order: 1788623979228
